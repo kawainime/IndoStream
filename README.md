@@ -1,5 +1,3 @@
-# IndoStream: Kumpulan Ekstensi CloudStream untuk Konten Indonesia
-
 IndoStream adalah kumpulan ekstensi CloudStream yang berfokus pada penyediaan konten streaming dari berbagai sumber di Indonesia. Repositori ini berisi ekstensi yang memperluas fungsionalitas aplikasi CloudStream, memungkinkan pengguna untuk menikmati berbagai macam film, serial, dan anime dari situs-situs populer di Indonesia.
 
 ## Fitur Utama
@@ -49,20 +47,13 @@ Berikut adalah daftar ekstensi yang tersedia di repositori IndoStream:
 
 ## Cara Menggunakan
 
-1.  Buka aplikasi CloudStream.
+1.  Buka aplikasi **[CLICK HERE](https://github.com/recloudstream/cloudstream)**.
 2.  Buka menu "Ekstensi".
 3.  Klik tombol "Tambahkan Repositori".
-4.  Masukkan URL repositori IndoStream: https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/repo.json
+4.  Masukkan URL repositori IndoStream: [SALIN TAUTAN](https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/repo.json)
 5.  Klik "Tambahkan".
 6.  Ekstensi yang tersedia akan muncul di daftar.
 7.  Pilih ekstensi yang ingin Anda instal dan klik "Instal".
 
-## Membangun Proyek
-
-Untuk membangun proyek ini, Anda memerlukan [Gradle](https://gradle.org/) yang terinstal. Anda dapat membangun proyek menggunakan perintah berikut:
-
-sh ./gradlew build
-
-## Kontribusi
-
-Kami menyambut baik kontribusi dari komunitas! Jika Anda ingin menambahkan ekstensi baru, memperbaiki bug, atau meningkatkan dokumentasi, silakan buat *pull request* atau buka *issue*.
+Sumber Aplikasi: **[CLICK HERE](https://github.com/recloudstream/cloudstream)**
+Download Aplikasi CloudStream: **[DOWNLOAD SEKARANG](https://github.com/recloudstream/cloudstream/releases/download/pre-release/app-prerelease-release.apk)**
